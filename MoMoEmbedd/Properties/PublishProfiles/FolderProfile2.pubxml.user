@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\inetpub\wwwroot\momowebsite</_PublishTargetUrl>
+    <History>True|2023-01-05T12:37:46.1197410Z;False|2023-01-05T19:37:20.3849018+07:00;True|2023-01-05T17:51:46.5349418+07:00;False|2023-01-05T17:48:21.9869318+07:00;False|2023-01-05T17:46:34.8247816+07:00;True|2023-01-05T17:00:25.5979435+07:00;True|2023-01-05T16:55:42.3043153+07:00;True|2023-01-05T16:51:53.8659370+07:00;True|2023-01-05T16:45:02.0869724+07:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>

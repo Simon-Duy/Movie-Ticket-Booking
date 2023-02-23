@@ -1,0 +1,404 @@
+D:\Learning\Đồ án\CINEMA\CINEMA\obj\Debug\CINEMA.csproj.AssemblyReference.cache
+D:\Learning\Đồ án\CINEMA\CINEMA\obj\Debug\CINEMA.csproj.SuggestedBindingRedirects.cache
+D:\Learning\Đồ án\CINEMA\CINEMA\obj\Debug\CINEMA.frmAccountSettings.resources
+D:\Learning\Đồ án\CINEMA\CINEMA\obj\Debug\CINEMA.frmAdminManage.resources
+D:\Learning\Đồ án\CINEMA\CINEMA\obj\Debug\CINEMA.AdminUC.AccountUC.resources
+D:\Learning\Đồ án\CINEMA\CINEMA\obj\Debug\CINEMA.AdminUC.CustomerUC.resources
+D:\Learning\Đồ án\CINEMA\CINEMA\obj\Debug\CINEMA.AdminUC.DataUC.resources
+D:\Learning\Đồ án\CINEMA\CINEMA\obj\Debug\CINEMA.frmAdminUserControls.DataUserControl.CinemaUC.resources
+D:\Learning\Đồ án\CINEMA\CINEMA\obj\Debug\CINEMA.frmAdminUserControls.DataUserControl.FormatMovieUC.resources
+D:\Learning\Đồ án\CINEMA\CINEMA\obj\Debug\CINEMA.frmAdminUserControls.DataUserControl.GenreUC.resources
+D:\Learning\Đồ án\CINEMA\CINEMA\obj\Debug\CINEMA.frmAdminUserControls.DataUserControl.MovieUC.resources
+D:\Learning\Đồ án\CINEMA\CINEMA\obj\Debug\CINEMA.frmAdminUserControls.DataUserControl.ScreenTypeUC.resources
+D:\Learning\Đồ án\CINEMA\CINEMA\obj\Debug\CINEMA.frmAdminUserControls.DataUserControl.ShowTimesUC.resources
+D:\Learning\Đồ án\CINEMA\CINEMA\obj\Debug\CINEMA.frmAdminUserControls.DataUserControl.TicketsUC.resources
+D:\Learning\Đồ án\CINEMA\CINEMA\obj\Debug\CINEMA.AdminUC.RevenueUC.resources
+D:\Learning\Đồ án\CINEMA\CINEMA\obj\Debug\CINEMA.AdminUC.StaffUC.resources
+D:\Learning\Đồ án\CINEMA\CINEMA\obj\Debug\CINEMA.frmConnectData.resources
+D:\Learning\Đồ án\CINEMA\CINEMA\obj\Debug\CINEMA.frmCustomer.resources
+D:\Learning\Đồ án\CINEMA\CINEMA\obj\Debug\CINEMA.frmDashBoard.resources
+D:\Learning\Đồ án\CINEMA\CINEMA\obj\Debug\CINEMA.frmLogin.resources
+D:\Learning\Đồ án\CINEMA\CINEMA\obj\Debug\CINEMA.frmQR.resources
+D:\Learning\Đồ án\CINEMA\CINEMA\obj\Debug\CINEMA.frmReport.resources
+D:\Learning\Đồ án\CINEMA\CINEMA\obj\Debug\CINEMA.frmSeller.resources
+D:\Learning\Đồ án\CINEMA\CINEMA\obj\Debug\CINEMA.frmTheatre.resources
+D:\Learning\Đồ án\CINEMA\CINEMA\obj\Debug\CINEMA.Properties.Resources.resources
+D:\Learning\Đồ án\CINEMA\CINEMA\obj\Debug\CINEMA.csproj.GenerateResource.cache
+D:\Learning\Đồ án\CINEMA\CINEMA\obj\Debug\CINEMA.csproj.CoreCompileInputs.cache
+D:\Learning\Đồ án\CINEMA\CINEMA\bin\Debug\x86\SqlServerSpatial160.dll
+D:\Learning\Đồ án\CINEMA\CINEMA\bin\Debug\x64\SqlServerSpatial160.dll
+D:\Learning\Đồ án\CINEMA\CINEMA\bin\Debug\CINEMA.exe.config
+D:\Learning\Đồ án\CINEMA\CINEMA\bin\Debug\CINEMA.exe
+D:\Learning\Đồ án\CINEMA\CINEMA\bin\Debug\CINEMA.pdb
+D:\Learning\Đồ án\CINEMA\CINEMA\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Learning\Đồ án\CINEMA\CINEMA\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Learning\Đồ án\CINEMA\CINEMA\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Learning\Đồ án\CINEMA\CINEMA\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Learning\Đồ án\CINEMA\CINEMA\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Learning\Đồ án\CINEMA\CINEMA\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Learning\Đồ án\CINEMA\CINEMA\bin\Debug\zxing.dll
+D:\Learning\Đồ án\CINEMA\CINEMA\bin\Debug\zxing.presentation.dll
+D:\Learning\Đồ án\CINEMA\CINEMA\bin\Debug\EnvDTE.dll
+D:\Learning\Đồ án\CINEMA\CINEMA\bin\Debug\stdole.dll
+D:\Learning\Đồ án\CINEMA\CINEMA\bin\Debug\zxing.xml
+D:\Learning\Đồ án\CINEMA\CINEMA\bin\Debug\zxing.presentation.xml
+D:\Learning\Đồ án\CINEMA\CINEMA\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Learning\Đồ án\CINEMA\CINEMA\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Learning\Đồ án\CINEMA\CINEMA\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Learning\Đồ án\CINEMA\CINEMA\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Learning\Đồ án\CINEMA\CINEMA\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Learning\Đồ án\CINEMA\CINEMA\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Learning\Đồ án\CINEMA\CINEMA\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Learning\Đồ án\CINEMA\CINEMA\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Learning\Đồ án\CINEMA\CINEMA\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Learning\Đồ án\CINEMA\CINEMA\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Learning\Đồ án\CINEMA\CINEMA\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Learning\Đồ án\CINEMA\CINEMA\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Learning\Đồ án\CINEMA\CINEMA\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Learning\Đồ án\CINEMA\CINEMA\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Learning\Đồ án\CINEMA\CINEMA\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Learning\Đồ án\CINEMA\CINEMA\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Learning\Đồ án\CINEMA\CINEMA\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Learning\Đồ án\CINEMA\CINEMA\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Learning\Đồ án\CINEMA\CINEMA\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Learning\Đồ án\CINEMA\CINEMA\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Learning\Đồ án\CINEMA\CINEMA\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Learning\Đồ án\CINEMA\CINEMA\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Learning\Đồ án\CINEMA\CINEMA\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Learning\Đồ án\CINEMA\CINEMA\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Learning\Đồ án\CINEMA\CINEMA\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Learning\Đồ án\CINEMA\CINEMA\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Learning\Đồ án\CINEMA\CINEMA\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Learning\Đồ án\CINEMA\CINEMA\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Learning\Đồ án\CINEMA\CINEMA\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Learning\Đồ án\CINEMA\CINEMA\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Learning\Đồ án\CINEMA\CINEMA\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Learning\Đồ án\CINEMA\CINEMA\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Learning\Đồ án\CINEMA\CINEMA\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Learning\Đồ án\CINEMA\CINEMA\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Learning\Đồ án\CINEMA\CINEMA\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Learning\Đồ án\CINEMA\CINEMA\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Learning\Đồ án\CINEMA\CINEMA\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Learning\Đồ án\CINEMA\CINEMA\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Learning\Đồ án\CINEMA\CINEMA\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Learning\Đồ án\CINEMA\CINEMA\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Learning\Đồ án\CINEMA\CINEMA\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\Learning\Đồ án\CINEMA\CINEMA\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\Learning\Đồ án\CINEMA\CINEMA\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\Learning\Đồ án\CINEMA\CINEMA\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\Learning\Đồ án\CINEMA\CINEMA\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\Learning\Đồ án\CINEMA\CINEMA\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\Learning\Đồ án\CINEMA\CINEMA\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\Learning\Đồ án\CINEMA\CINEMA\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\Learning\Đồ án\CINEMA\CINEMA\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\Learning\Đồ án\CINEMA\CINEMA\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\Learning\Đồ án\CINEMA\CINEMA\obj\Debug\CINEMA.csproj.CopyComplete
+D:\Learning\Đồ án\CINEMA\CINEMA\obj\Debug\CINEMA.exe
+D:\Learning\Đồ án\CINEMA\CINEMA\obj\Debug\CINEMA.pdb
+D:\Learning\Đồ án\CINEMA - Copy\CINEMA\bin\Debug\x86\SqlServerSpatial160.dll
+D:\Learning\Đồ án\CINEMA - Copy\CINEMA\bin\Debug\x64\SqlServerSpatial160.dll
+D:\Learning\Đồ án\CINEMA - Copy\CINEMA\bin\Debug\CINEMA.exe.config
+D:\Learning\Đồ án\CINEMA - Copy\CINEMA\bin\Debug\CINEMA.exe
+D:\Learning\Đồ án\CINEMA - Copy\CINEMA\bin\Debug\CINEMA.pdb
+D:\Learning\Đồ án\CINEMA - Copy\CINEMA\bin\Debug\Guna.UI2.dll
+D:\Learning\Đồ án\CINEMA - Copy\CINEMA\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Learning\Đồ án\CINEMA - Copy\CINEMA\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Learning\Đồ án\CINEMA - Copy\CINEMA\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Learning\Đồ án\CINEMA - Copy\CINEMA\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Learning\Đồ án\CINEMA - Copy\CINEMA\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Learning\Đồ án\CINEMA - Copy\CINEMA\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Learning\Đồ án\CINEMA - Copy\CINEMA\bin\Debug\zxing.dll
+D:\Learning\Đồ án\CINEMA - Copy\CINEMA\bin\Debug\zxing.presentation.dll
+D:\Learning\Đồ án\CINEMA - Copy\CINEMA\bin\Debug\EnvDTE.dll
+D:\Learning\Đồ án\CINEMA - Copy\CINEMA\bin\Debug\stdole.dll
+D:\Learning\Đồ án\CINEMA - Copy\CINEMA\bin\Debug\zxing.xml
+D:\Learning\Đồ án\CINEMA - Copy\CINEMA\bin\Debug\zxing.presentation.xml
+D:\Learning\Đồ án\CINEMA - Copy\CINEMA\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy\CINEMA\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy\CINEMA\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy\CINEMA\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy\CINEMA\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy\CINEMA\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy\CINEMA\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy\CINEMA\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy\CINEMA\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy\CINEMA\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy\CINEMA\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy\CINEMA\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy\CINEMA\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy\CINEMA\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy\CINEMA\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy\CINEMA\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy\CINEMA\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy\CINEMA\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy\CINEMA\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy\CINEMA\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy\CINEMA\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy\CINEMA\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy\CINEMA\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy\CINEMA\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy\CINEMA\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy\CINEMA\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy\CINEMA\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy\CINEMA\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy\CINEMA\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy\CINEMA\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy\CINEMA\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy\CINEMA\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy\CINEMA\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy\CINEMA\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy\CINEMA\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy\CINEMA\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy\CINEMA\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy\CINEMA\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy\CINEMA\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy\CINEMA\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy\CINEMA\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy\CINEMA\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy\CINEMA\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy\CINEMA\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy\CINEMA\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy\CINEMA\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy\CINEMA\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy\CINEMA\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy\CINEMA\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy\CINEMA\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy\CINEMA\obj\Debug\CINEMA.csproj.AssemblyReference.cache
+D:\Learning\Đồ án\CINEMA - Copy\CINEMA\obj\Debug\CINEMA.csproj.SuggestedBindingRedirects.cache
+D:\Learning\Đồ án\CINEMA - Copy\CINEMA\obj\Debug\CINEMA.frmAccountSettings.resources
+D:\Learning\Đồ án\CINEMA - Copy\CINEMA\obj\Debug\CINEMA.frmAdminManage.resources
+D:\Learning\Đồ án\CINEMA - Copy\CINEMA\obj\Debug\CINEMA.AdminUC.AccountUC.resources
+D:\Learning\Đồ án\CINEMA - Copy\CINEMA\obj\Debug\CINEMA.AdminUC.CustomerUC.resources
+D:\Learning\Đồ án\CINEMA - Copy\CINEMA\obj\Debug\CINEMA.AdminUC.DataUC.resources
+D:\Learning\Đồ án\CINEMA - Copy\CINEMA\obj\Debug\CINEMA.frmAdminUserControls.DataUserControl.CinemaUC.resources
+D:\Learning\Đồ án\CINEMA - Copy\CINEMA\obj\Debug\CINEMA.frmAdminUserControls.DataUserControl.FormatMovieUC.resources
+D:\Learning\Đồ án\CINEMA - Copy\CINEMA\obj\Debug\CINEMA.frmAdminUserControls.DataUserControl.GenreUC.resources
+D:\Learning\Đồ án\CINEMA - Copy\CINEMA\obj\Debug\CINEMA.frmAdminUserControls.DataUserControl.MovieUC.resources
+D:\Learning\Đồ án\CINEMA - Copy\CINEMA\obj\Debug\CINEMA.frmAdminUserControls.DataUserControl.ScreenTypeUC.resources
+D:\Learning\Đồ án\CINEMA - Copy\CINEMA\obj\Debug\CINEMA.frmAdminUserControls.DataUserControl.ShowTimesUC.resources
+D:\Learning\Đồ án\CINEMA - Copy\CINEMA\obj\Debug\CINEMA.frmAdminUserControls.DataUserControl.TicketsUC.resources
+D:\Learning\Đồ án\CINEMA - Copy\CINEMA\obj\Debug\CINEMA.AdminUC.RevenueUC.resources
+D:\Learning\Đồ án\CINEMA - Copy\CINEMA\obj\Debug\CINEMA.AdminUC.StaffUC.resources
+D:\Learning\Đồ án\CINEMA - Copy\CINEMA\obj\Debug\CINEMA.frmConnectData.resources
+D:\Learning\Đồ án\CINEMA - Copy\CINEMA\obj\Debug\CINEMA.frmCustomer.resources
+D:\Learning\Đồ án\CINEMA - Copy\CINEMA\obj\Debug\CINEMA.frmDashBoard.resources
+D:\Learning\Đồ án\CINEMA - Copy\CINEMA\obj\Debug\CINEMA.frmLogin.resources
+D:\Learning\Đồ án\CINEMA - Copy\CINEMA\obj\Debug\CINEMA.frmQR.resources
+D:\Learning\Đồ án\CINEMA - Copy\CINEMA\obj\Debug\CINEMA.frmReport.resources
+D:\Learning\Đồ án\CINEMA - Copy\CINEMA\obj\Debug\CINEMA.frmSeller.resources
+D:\Learning\Đồ án\CINEMA - Copy\CINEMA\obj\Debug\CINEMA.frmTheatre.resources
+D:\Learning\Đồ án\CINEMA - Copy\CINEMA\obj\Debug\CINEMA.Properties.Resources.resources
+D:\Learning\Đồ án\CINEMA - Copy\CINEMA\obj\Debug\CINEMA.csproj.GenerateResource.cache
+D:\Learning\Đồ án\CINEMA - Copy\CINEMA\obj\Debug\CINEMA.csproj.CoreCompileInputs.cache
+D:\Learning\Đồ án\CINEMA - Copy\CINEMA\obj\Debug\CINEMA.csproj.CopyComplete
+D:\Learning\Đồ án\CINEMA - Copy\CINEMA\obj\Debug\CINEMA.exe
+D:\Learning\Đồ án\CINEMA - Copy\CINEMA\obj\Debug\CINEMA.pdb
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy\CINEMA\bin\Debug\x86\SqlServerSpatial160.dll
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy\CINEMA\bin\Debug\x64\SqlServerSpatial160.dll
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy\CINEMA\bin\Debug\CINEMA.exe.config
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy\CINEMA\bin\Debug\CINEMA.exe
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy\CINEMA\bin\Debug\CINEMA.pdb
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy\CINEMA\bin\Debug\Guna.UI2.dll
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy\CINEMA\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy\CINEMA\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy\CINEMA\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy\CINEMA\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy\CINEMA\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy\CINEMA\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy\CINEMA\bin\Debug\zxing.dll
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy\CINEMA\bin\Debug\zxing.presentation.dll
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy\CINEMA\bin\Debug\EnvDTE.dll
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy\CINEMA\bin\Debug\stdole.dll
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy\CINEMA\bin\Debug\zxing.xml
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy\CINEMA\bin\Debug\zxing.presentation.xml
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy\CINEMA\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy\CINEMA\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy\CINEMA\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy\CINEMA\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy\CINEMA\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy\CINEMA\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy\CINEMA\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy\CINEMA\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy\CINEMA\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy\CINEMA\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy\CINEMA\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy\CINEMA\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy\CINEMA\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy\CINEMA\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy\CINEMA\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy\CINEMA\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy\CINEMA\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy\CINEMA\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy\CINEMA\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy\CINEMA\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy\CINEMA\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy\CINEMA\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy\CINEMA\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy\CINEMA\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy\CINEMA\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy\CINEMA\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy\CINEMA\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy\CINEMA\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy\CINEMA\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy\CINEMA\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy\CINEMA\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy\CINEMA\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy\CINEMA\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy\CINEMA\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy\CINEMA\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy\CINEMA\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy\CINEMA\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy\CINEMA\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy\CINEMA\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy\CINEMA\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy\CINEMA\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy\CINEMA\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy\CINEMA\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy\CINEMA\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy\CINEMA\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy\CINEMA\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy\CINEMA\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy\CINEMA\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy\CINEMA\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy\CINEMA\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy\CINEMA\obj\Debug\CINEMA.csproj.AssemblyReference.cache
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy\CINEMA\obj\Debug\CINEMA.csproj.SuggestedBindingRedirects.cache
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy\CINEMA\obj\Debug\CINEMA.frmAccountSettings.resources
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy\CINEMA\obj\Debug\CINEMA.frmAdminManage.resources
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy\CINEMA\obj\Debug\CINEMA.AdminUC.AccountUC.resources
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy\CINEMA\obj\Debug\CINEMA.AdminUC.CustomerUC.resources
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy\CINEMA\obj\Debug\CINEMA.AdminUC.DataUC.resources
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy\CINEMA\obj\Debug\CINEMA.frmAdminUserControls.DataUserControl.CinemaUC.resources
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy\CINEMA\obj\Debug\CINEMA.frmAdminUserControls.DataUserControl.FormatMovieUC.resources
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy\CINEMA\obj\Debug\CINEMA.frmAdminUserControls.DataUserControl.GenreUC.resources
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy\CINEMA\obj\Debug\CINEMA.frmAdminUserControls.DataUserControl.MovieUC.resources
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy\CINEMA\obj\Debug\CINEMA.frmAdminUserControls.DataUserControl.ScreenTypeUC.resources
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy\CINEMA\obj\Debug\CINEMA.frmAdminUserControls.DataUserControl.ShowTimesUC.resources
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy\CINEMA\obj\Debug\CINEMA.frmAdminUserControls.DataUserControl.TicketsUC.resources
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy\CINEMA\obj\Debug\CINEMA.AdminUC.RevenueUC.resources
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy\CINEMA\obj\Debug\CINEMA.AdminUC.StaffUC.resources
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy\CINEMA\obj\Debug\CINEMA.frmConnectData.resources
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy\CINEMA\obj\Debug\CINEMA.frmCustomer.resources
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy\CINEMA\obj\Debug\CINEMA.frmDashBoard.resources
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy\CINEMA\obj\Debug\CINEMA.frmLogin.resources
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy\CINEMA\obj\Debug\CINEMA.frmQR.resources
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy\CINEMA\obj\Debug\CINEMA.frmReport.resources
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy\CINEMA\obj\Debug\CINEMA.frmSeller.resources
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy\CINEMA\obj\Debug\CINEMA.frmTheatre.resources
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy\CINEMA\obj\Debug\CINEMA.Properties.Resources.resources
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy\CINEMA\obj\Debug\CINEMA.csproj.GenerateResource.cache
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy\CINEMA\obj\Debug\CINEMA.csproj.CoreCompileInputs.cache
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy\CINEMA\obj\Debug\CINEMA.csproj.CopyComplete
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy\CINEMA\obj\Debug\CINEMA.exe
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy\CINEMA\obj\Debug\CINEMA.pdb
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy - Copy\CINEMA\bin\Debug\x86\SqlServerSpatial160.dll
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy - Copy\CINEMA\bin\Debug\x64\SqlServerSpatial160.dll
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy - Copy\CINEMA\bin\Debug\CINEMA.exe.config
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy - Copy\CINEMA\bin\Debug\CINEMA.exe
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy - Copy\CINEMA\bin\Debug\CINEMA.pdb
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy - Copy\CINEMA\bin\Debug\Guna.UI2.dll
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy - Copy\CINEMA\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy - Copy\CINEMA\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy - Copy\CINEMA\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy - Copy\CINEMA\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy - Copy\CINEMA\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy - Copy\CINEMA\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy - Copy\CINEMA\bin\Debug\zxing.dll
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy - Copy\CINEMA\bin\Debug\zxing.presentation.dll
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy - Copy\CINEMA\bin\Debug\EnvDTE.dll
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy - Copy\CINEMA\bin\Debug\stdole.dll
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy - Copy\CINEMA\bin\Debug\zxing.xml
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy - Copy\CINEMA\bin\Debug\zxing.presentation.xml
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy - Copy\CINEMA\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy - Copy\CINEMA\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy - Copy\CINEMA\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy - Copy\CINEMA\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy - Copy\CINEMA\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy - Copy\CINEMA\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy - Copy\CINEMA\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy - Copy\CINEMA\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy - Copy\CINEMA\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy - Copy\CINEMA\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy - Copy\CINEMA\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy - Copy\CINEMA\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy - Copy\CINEMA\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy - Copy\CINEMA\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy - Copy\CINEMA\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy - Copy\CINEMA\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy - Copy\CINEMA\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy - Copy\CINEMA\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy - Copy\CINEMA\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy - Copy\CINEMA\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy - Copy\CINEMA\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy - Copy\CINEMA\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy - Copy\CINEMA\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy - Copy\CINEMA\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy - Copy\CINEMA\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy - Copy\CINEMA\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy - Copy\CINEMA\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy - Copy\CINEMA\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy - Copy\CINEMA\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy - Copy\CINEMA\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy - Copy\CINEMA\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy - Copy\CINEMA\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy - Copy\CINEMA\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy - Copy\CINEMA\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy - Copy\CINEMA\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy - Copy\CINEMA\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy - Copy\CINEMA\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy - Copy\CINEMA\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy - Copy\CINEMA\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy - Copy\CINEMA\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy - Copy\CINEMA\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy - Copy\CINEMA\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy - Copy\CINEMA\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy - Copy\CINEMA\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy - Copy\CINEMA\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy - Copy\CINEMA\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy - Copy\CINEMA\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy - Copy\CINEMA\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy - Copy\CINEMA\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy - Copy\CINEMA\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy - Copy\CINEMA\obj\Debug\CINEMA.csproj.AssemblyReference.cache
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy - Copy\CINEMA\obj\Debug\CINEMA.csproj.SuggestedBindingRedirects.cache
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy - Copy\CINEMA\obj\Debug\CINEMA.frmAccountSettings.resources
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy - Copy\CINEMA\obj\Debug\CINEMA.frmAdminManage.resources
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy - Copy\CINEMA\obj\Debug\CINEMA.AdminUC.AccountUC.resources
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy - Copy\CINEMA\obj\Debug\CINEMA.AdminUC.CustomerUC.resources
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy - Copy\CINEMA\obj\Debug\CINEMA.AdminUC.DataUC.resources
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy - Copy\CINEMA\obj\Debug\CINEMA.frmAdminUserControls.DataUserControl.CinemaUC.resources
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy - Copy\CINEMA\obj\Debug\CINEMA.frmAdminUserControls.DataUserControl.FormatMovieUC.resources
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy - Copy\CINEMA\obj\Debug\CINEMA.frmAdminUserControls.DataUserControl.GenreUC.resources
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy - Copy\CINEMA\obj\Debug\CINEMA.frmAdminUserControls.DataUserControl.MovieUC.resources
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy - Copy\CINEMA\obj\Debug\CINEMA.frmAdminUserControls.DataUserControl.ScreenTypeUC.resources
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy - Copy\CINEMA\obj\Debug\CINEMA.frmAdminUserControls.DataUserControl.ShowTimesUC.resources
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy - Copy\CINEMA\obj\Debug\CINEMA.frmAdminUserControls.DataUserControl.TicketsUC.resources
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy - Copy\CINEMA\obj\Debug\CINEMA.AdminUC.RevenueUC.resources
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy - Copy\CINEMA\obj\Debug\CINEMA.AdminUC.StaffUC.resources
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy - Copy\CINEMA\obj\Debug\CINEMA.frmConnectData.resources
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy - Copy\CINEMA\obj\Debug\CINEMA.frmCustomer.resources
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy - Copy\CINEMA\obj\Debug\CINEMA.frmDashBoard.resources
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy - Copy\CINEMA\obj\Debug\CINEMA.frmLogin.resources
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy - Copy\CINEMA\obj\Debug\CINEMA.frmQR.resources
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy - Copy\CINEMA\obj\Debug\CINEMA.frmReport.resources
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy - Copy\CINEMA\obj\Debug\CINEMA.frmSeller.resources
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy - Copy\CINEMA\obj\Debug\CINEMA.frmTheatre.resources
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy - Copy\CINEMA\obj\Debug\CINEMA.Properties.Resources.resources
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy - Copy\CINEMA\obj\Debug\CINEMA.csproj.GenerateResource.cache
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy - Copy\CINEMA\obj\Debug\CINEMA.csproj.CoreCompileInputs.cache
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy - Copy\CINEMA\obj\Debug\CINEMA.csproj.CopyComplete
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy - Copy\CINEMA\obj\Debug\CINEMA.exe
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy - Copy\CINEMA\obj\Debug\CINEMA.pdb
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy - Copy\CINEMA\bin\Debug\DotNetBrowser.Chromium.Win-x64.dll
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy - Copy\CINEMA\bin\Debug\DotNetBrowser.Chromium.Win-x86.dll
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy - Copy\CINEMA\bin\Debug\DotNetBrowser.Core.dll
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy - Copy\CINEMA\bin\Debug\DotNetBrowser.dll
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy - Copy\CINEMA\bin\Debug\DotNetBrowser.Logging.dll
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy - Copy\CINEMA\bin\Debug\DotNetBrowser.WinForms.dll
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy - Copy\CINEMA\bin\Debug\protobuf-net.dll
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy - Copy\CINEMA\bin\Debug\DotNetBrowser.xml
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy - Copy\CINEMA\bin\Debug\DotNetBrowser.Core.xml
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy - Copy\CINEMA\bin\Debug\DotNetBrowser.Logging.xml
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy - Copy\CINEMA\bin\Debug\DotNetBrowser.WinForms.xml
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy - Copy\CINEMA\bin\Debug\protobuf-net.xml
+D:\Learning\Đồ án\CINEMA - Copy - Copy - Copy - Copy\CINEMA\obj\Debug\CINEMA.frmMOMO.resources

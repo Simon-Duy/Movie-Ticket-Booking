@@ -1,0 +1,6 @@
+D:\University of Economics & Finance\Đồ án\Đồ án Thực hiện\MoMoVariable\MoMoVariable\bin\Release\MoMoVariable.dll
+D:\University of Economics & Finance\Đồ án\Đồ án Thực hiện\MoMoVariable\MoMoVariable\bin\Release\MoMoVariable.pdb
+D:\University of Economics & Finance\Đồ án\Đồ án Thực hiện\MoMoVariable\MoMoVariable\obj\Release\MoMoVariable.csproj.AssemblyReference.cache
+D:\University of Economics & Finance\Đồ án\Đồ án Thực hiện\MoMoVariable\MoMoVariable\obj\Release\MoMoVariable.csproj.CoreCompileInputs.cache
+D:\University of Economics & Finance\Đồ án\Đồ án Thực hiện\MoMoVariable\MoMoVariable\obj\Release\MoMoVariable.dll
+D:\University of Economics & Finance\Đồ án\Đồ án Thực hiện\MoMoVariable\MoMoVariable\obj\Release\MoMoVariable.pdb

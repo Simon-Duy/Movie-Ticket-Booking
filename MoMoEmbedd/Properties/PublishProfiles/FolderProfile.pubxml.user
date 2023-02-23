@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\inetpub\wwwroot\mywebsite</_PublishTargetUrl>
+    <History>False|2023-01-05T09:44:18.2241010Z;True|2023-01-05T16:02:43.8972936+07:00;True|2023-01-05T16:02:26.8661462+07:00;True|2023-01-05T15:59:16.8341699+07:00;True|2023-01-05T15:51:52.9903677+07:00;True|2023-01-05T15:51:07.2523507+07:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>

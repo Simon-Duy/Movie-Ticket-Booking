@@ -1,0 +1,53 @@
+﻿@{
+    ViewData["Title"] = "Xác nhận Thanh toán MoMo";
+    string[] TableHeaders = new string[] {"Mã Phim"
+                        ,"Tên Phim"
+                        ,"Ngày Chiếu"
+                        ,"Suất Chiếu"
+                        ,"Tên Khách hàng"
+                        ,"Mã Ghế"
+                        ,"Giá Vé"};
+}
+
+<div class="text-center">
+    <h1 class="display-4">Cảm ơn Quý khách đã Sử dụng Dịch vụ!</h1>
+    <hr/>
+    <h2>@ViewBag.Message</h2>
+
+    <div class="table">
+        <table class="table table-bordered table-hover">
+            <thead>
+                <tr>
+                    @{
+                        foreach (var head in TableHeaders)
+                        {
+                             <th>
+                                @head
+                            </th>
+                        }
+                    }
+                </tr>
+            </thead>
+            <tbody>
+                @{
+                    if (Model != null)
+                    {
+                        foreach (var Data in Model)
+                        {
+                            <tr>
+                                <td>@Data.MovieID</td>
+                                <td>@Data.MovieName</td>
+                                <td>@Data.Date</td>
+                                <td>@Data.ShowTime</td>
+                                <td>@Data.CusID</td>
+                                <td>@Data.SeatID</td>
+                                <td>@Data.Price</td>
+                            </tr>
+                        }
+                    }
+                }
+        </tbody>
+        </table>
+    </div>
+</div>
+
