@@ -28,8 +28,9 @@ A desktop specialized application designed specifically for POS Machine provides
 - Run the SQL script for database initialization which could be found in database folder from downloaded package
 - Start the application with the following default username and password ( Username: admin - Password: admin )
 - Configure the network and database connection in manager page with hinted information below
-<p> Server Name: [ your PC or VPS name ] </p>
-<p> Database Name: [ database name ] </p>
-<p> Username: [ SQL Server login username credential ] </p>
-<p> Password: [ SQL Server password for user property ] </p>
+<p><pre> Server Name: [ your PC or VPS name ] </pre></p>
+<p><pre> Database Name: [ database name ] </pre></p>
+<p><pre> Username: [ SQL Server login username credential ] </pre></p>
+<p><pre> Password: [ SQL Server password for user property ] </pre></p>
+
 - Enjoy the seamless experiences with the massively robust features 
